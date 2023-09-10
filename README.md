@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kamga-Roland
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python,c programing, javascript
-- 💞️ I’m looking to collaborate on projects on web development
-- 📫 How to reach me: rolandkamga7@gmail.com
+fullstack developer 
 
 <!---
 Kamga-Roland/Kamga-Roland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
