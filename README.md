@@ -1,4 +1,4 @@
-Machine Larning dev | Fullstack dev 
+Spring | Angular developper
 
 <!---
 Kamga-Roland/Kamga-Roland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
