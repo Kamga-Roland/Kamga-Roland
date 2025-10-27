@@ -3,7 +3,7 @@
 ## 💻 Cloud & DevOps Engineer | 🚀 Lifelong Learner | 🌍 Tech Enthusiast
 
 # 💫 About Me:
-Open to collaboration on innovative projects.Driven by a deep passion for Cloud and DevOps engineering, I thrive on crafting innovative, secure, and high-performing hybrid infrastructures that bridge the best of private and public cloud ecosystems. Whether it's VMware on the private side, or AWS and Azure in the public sphere, I’m constantly exploring how to harmonize these platforms into seamless, automated environments.
+Driven by a deep passion for Cloud and DevOps engineering, I thrive on crafting innovative, secure, and high-performing hybrid infrastructures that bridge the best of private and public cloud ecosystems. Whether it's VMware on the private side, or AWS and Azure in the public sphere, I’m constantly exploring how to harmonize these platforms into seamless, automated environments.
 
 With solid expertise in Docker and VMware vSphere, I’m expanding my mastery in Kubernetes, Terraform, and Ansible, tools that empower me to orchestrate complex systems, embrace Infrastructure as Code, and deploy resilient cloud-native solutions. My journey is fueled by curiosity, precision, and a relentless drive to build the future of cloud architecture.
 
