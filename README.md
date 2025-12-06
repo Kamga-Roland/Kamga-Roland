@@ -11,6 +11,9 @@ I started out in Java Fullstack development, where I built robust web applicatio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔥 GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kamga-Roland&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Kamga-Roland&icon=2&color=0)](https://visitcount.itsvg.in)
 
