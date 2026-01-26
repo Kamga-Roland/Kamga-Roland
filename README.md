@@ -1,4 +1,4 @@
-# Welcome to my tech journey :
+# Welcome to my tech journey:
 I started out in Java Fullstack development, where I built robust web applications and developed a strong foundation in software engineering. That experience sharpened my problem-solving skills and introduced me to agile methodologies & CI/CD pipelines.<br><br>Today, I’m diving deep into the world of infrastructure exploring the intersection of private and public cloud to master hybrid environments. With hands-on experience in Docker and VMware vSphere, I’m actively learning Kubernetes, Terraform, and Ansible to architect secure, automated, and scalable systems. I’m passionate about applying DevOps principles like Infrastructure as Code, continuous integration, and observability to streamline operations and accelerate delivery.<br><br>I'm curious and driven by new ideas. I’m learning quickly, building with confidence, and growing in the world of cloud technology where development meets infrastructure, and innovation powers automation.<br><br>Let’s connect and shape tomorrow’s tech landscape :<br><br>Email: rolandkamga7@gmail.com<br>My Portfolio: https://roland-kamga.vercel.app/
 
 
