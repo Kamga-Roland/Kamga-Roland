@@ -16,4 +16,3 @@ I started out in Java Fullstack development, where I built robust web applicatio
 ---
 [![](https://visitcount.itsvg.in/api?id=Kamga-Roland&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
