@@ -9,7 +9,7 @@ My philosophy is simple: I don't just want to deploy applications; I want to und
 
 "I’m always looking to connect with engineers and architects who believe that building systems, not just shipping code is where true innovation happens. Let’s connect."
 
-<br><br>Email: rolandkamga7@gmail.com<br>
+<br>Email: rolandkamga7@gmail.com<br>
 
 
 ## 🌐 Socials:
