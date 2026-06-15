@@ -1,5 +1,15 @@
 # Welcome to my tech journey :
-I started out in Java Fullstack development, where I built robust web applications and developed a strong foundation in software engineering. That experience sharpened my problem-solving skills and introduced me to agile methodologies & CI/CD pipelines.<br><br>Today, I’m diving deep into the world of infrastructure exploring the intersection of private and public cloud to master hybrid environments. With hands-on experience in Docker and VMware vSphere, I’m actively learning Kubernetes, Terraform, and Ansible to architect secure, automated, and scalable systems. I’m passionate about applying DevOps principles like Infrastructure as Code, continuous integration, and observability to streamline operations and accelerate delivery.<br><br>I'm curious and driven by new ideas. I’m learning quickly, building with confidence, and growing in the world of cloud technology where development meets infrastructure, and innovation powers automation.<br><br>Let’s connect and shape tomorrow’s tech landscape :<br><br>Email: rolandkamga7@gmail.com<br>
+True software performance isn't just about the code we write; it is about the foundation that code stands on.<br><br>
+
+My tech journey began in Java Fullstack development, where I mastered the art of building robust, user-centric applications. This experience taught me how software serves the user, but it also revealed a missing piece: the "black box" of infrastructure. I realized that to be a truly elite engineer, I needed to understand the environment where my code actually lives.<br><br>
+
+Driven by that curiosity, I pivoted to the hardware layer. Today, I am immersing myself in bare-metal server administration, moving past the common abstractions to master the core pillars of cloud computing : compute, storage, and networking. By engaging directly with hardware, I am learning how I/O latency, resource allocation, and kernel-level configurations dictate the success of high-scale systems.<br><br>
+
+My philosophy is simple: I don't just want to deploy applications; I want to understand the machine they inhabit. I am building a career at the intersection of software development and systems architecture, bridging the gap between high-level logic and low-level execution.<br><br>
+
+"I’m always looking to connect with engineers and architects who believe that building systems, not just shipping code is where true innovation happens. Let’s connect."
+
+<br><br>Email: rolandkamga7@gmail.com<br>
 
 
 ## 🌐 Socials:
